@@ -1,0 +1,7 @@
+potential issues
+
+- two ways to get to the same square
+
+- stalemates (no valid pieces to select)
+
+- compile warnings
